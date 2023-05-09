@@ -1,0 +1,6 @@
+WordBook.*
+ENTITY.md
+
+build/
+dist/
+*.spec
